@@ -7,13 +7,14 @@ Freetronics email: info@freetronics.com
 The LeoStick is an Arduino compatible board, designed to be
 functionally equivalent to the Arduino Leonardo while shrinking it down
 to a tiny size.
-![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3405_b_LS_bare_top_angle_1024x1024.png)
 ![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3380_b_LS_headers_top_angle_1024x1024.png)
-![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3445_LS_in_mac_red_1024x1024.png)
+![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3405_b_LS_bare_top_angle_1024x1024.png)
+![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3424_LS_in_hand_closeup_1024x1024.png)
 ![Front](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/Freetronics-LeoStick-web-label-002-centre_1024x1024.png)
 ![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3395_b_LS_bare_bottom_angle_1024x1024.png)
-![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3424_LS_in_hand_closeup_1024x1024.png)
 ![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3411_c_LS_bare_with_parts_angle_1024x1024.png)
+![](https://raw.githubusercontent.com/xelectronics/LeoStick/master/image/IMG_3445_LS_in_mac_red_1024x1024.png)
+
 Features:
 
  * Tiny format similar to a USB memory stick
