@@ -7,8 +7,8 @@ Freetronics email: info@freetronics.com
 The LeoStick is an Arduino compatible board, designed to be
 functionally equivalent to the Arduino Leonardo while shrinking it down
 to a tiny size.
+![Front](/xelectronics/LeoStick/image/Freetronics-LeoStick-web-label-002-centre_1024x1024.png)
 
-![alt text](https://github.com/xelectronics/LeoStick/blob/master/Freetronics-LeoStick-web-label-002-centre_1024x1024.png)
 
 Features:
 
