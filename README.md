@@ -8,6 +8,8 @@ The LeoStick is an Arduino compatible board, designed to be
 functionally equivalent to the Arduino Leonardo while shrinking it down
 to a tiny size.
 
+![alt text](https://github.com/xelectronics/LeoStick/blob/master/Freetronics-LeoStick-web-label-002-centre_1024x1024.png)
+
 Features:
 
  * Tiny format similar to a USB memory stick
